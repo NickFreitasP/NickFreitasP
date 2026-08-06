@@ -82,8 +82,6 @@ Sistema para nutricionistas gerenciarem pacientes, consultas e planos alimentare
 ---
 ## 📧 Contato
 
-> Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos!
-
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/nicholas-freitas-4290ba228"/> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
@@ -98,11 +96,9 @@ Sistema para nutricionistas gerenciarem pacientes, consultas e planos alimentare
   <!-- <img align="center" width="26%" src="https://media1.tenor.com/m/WZCuPSuhhR8AAAAd/pixel-jeff-divoom-pixel-art.gif"> -->
 </div>
 
-
 <div align="center">
 
 ###   *"Code. Learn. Build. Repeat."*
-
-⭐ Obrigado por visitar meu perfil!
+> Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos!
 
 </div>
