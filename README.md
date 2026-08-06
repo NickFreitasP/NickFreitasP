@@ -92,12 +92,10 @@ Sistema para nutricionistas gerenciarem pacientes, consultas e planos alimentare
   <!-- <a href="https://leetcode.com/u//"> 
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=LeetCode&logoColor=white"/> 
   </a>  -->
-  <br><br>
   <!-- <img align="center" width="26%" src="https://media1.tenor.com/m/WZCuPSuhhR8AAAAd/pixel-jeff-divoom-pixel-art.gif"> -->
 </div>
 
 <div align="center">
-
 ###   *"Code. Learn. Build. Repeat."*
  Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos!
 
