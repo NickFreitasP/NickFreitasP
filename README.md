@@ -11,8 +11,8 @@
 🚀 Atualmente desenvolvendo aplicações **Laravel**, **SaaS**, **E-commerce** e ferramentas utilizando **Inteligência Artificial**.<br>
 🎯 Meu foco é construir produtos escaláveis seguindo boas práticas como **SOLID**, **Clean Architecture** e **DDD**.<br>
 </div>
-
-### 🚀 Tecnologias
+---
+# 🚀 Tecnologias
 
 ### Backend
 
