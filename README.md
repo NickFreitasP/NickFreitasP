@@ -31,8 +31,8 @@
 
 <div align="center">
 
-  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=NickFreitasP-git&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=NickFreitasPgit&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api/top-langs/?username=NickFreitasP&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-tan-rho-95.vercel.app/api?username=NickFreitasP&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true&count_private=true"/>
 
 </div>
 
