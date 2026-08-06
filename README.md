@@ -85,7 +85,7 @@ Sistema para nutricionistas gerenciarem pacientes, consultas e planos alimentare
 > Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos!
 
 <div align="center">
-  <a target="__blank" href="https://www.linkedin.com/in/nicholas-freitas-4290ba228"/> 
+  <a target="_blank" href="https://www.linkedin.com/in/nicholas-freitas-4290ba228"/> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
   </a>  
   <a href="mailto:nicholaspanonko2@gmail.com" target="__blank"> 
