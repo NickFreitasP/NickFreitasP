@@ -9,7 +9,9 @@
 <!-- <img width="380" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"> -->
 
 <br><br>
+</div>
 
+<div >
 ![](https://komarev.com/ghpvc/?username=NickFreitasP&style=for-the-badge&color=8B5CF6)
 
 💻 Desenvolvedor **Back-end** apaixonado por criar software de qualidade.
@@ -19,6 +21,9 @@
 🎯 Meu foco é construir produtos escaláveis seguindo boas práticas como **SOLID**, **Clean Architecture** e **DDD**.
 </div>
 ---
+  
+</div>
+
 
 # 🚀 Tecnologias
 
