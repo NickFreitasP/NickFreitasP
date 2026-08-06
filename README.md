@@ -99,6 +99,6 @@ Sistema para nutricionistas gerenciarem pacientes, consultas e planos alimentare
 <div align="center">
 
 ###   *"Code. Learn. Build. Repeat."*
-> Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos!
+ Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos!
 
 </div>
