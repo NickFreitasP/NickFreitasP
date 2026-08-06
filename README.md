@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=ffffff&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+o+Nicholas!" alt="Typing SVG - Nicholas Freitas de Souza">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=198754&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+o+Nicholas!" alt="Typing SVG - Nicholas Freitas de Souza">
   </a>
 </div>
 
 <div >
   
-![](https://komarev.com/ghpvc/?username=NickFreitasP&abbreviated=true)<br>
+![](https://komarev.com/ghpvc/?username=NickFreitasP&abbreviated=true&color=198754)<br>
 💻 Desenvolvedor **Back-end** apaixonado por criar software de qualidade.<br>
 🚀 Atualmente desenvolvendo aplicações **Laravel**, **SaaS**, **E-commerce** e ferramentas utilizando **Inteligência Artificial**.<br>
 🎯 Meu foco é construir produtos escaláveis seguindo boas práticas como **SOLID**, **Clean Architecture** e **DDD**.<br>
