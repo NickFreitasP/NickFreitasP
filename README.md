@@ -46,26 +46,11 @@
 
 Sistema completo desenvolvido em Laravel utilizando Arquitetura Limpa, DDD e SOLID.
 
-**Tecnologias**
-
-- Laravel
-- MySQL
-- Docker
-- Redis
-- Bootstrap
-
 ---
 
 ## 🤖 AI Marketing Platform
 
 Plataforma SaaS para geração de conteúdo utilizando Inteligência Artificial.
-
-**Funcionalidades**
-
-- Pesquisa de mercado
-- Geração de conteúdo
-- Análise de concorrentes
-- Automação
 
 ---
 
@@ -94,45 +79,29 @@ Sistema para nutricionistas gerenciarem pacientes, consultas e planos alimentare
 ✓ Domain Driven Design
 ✓ Inteligência Artificial
 ```
-
 ---
+## 📧 Contato
 
-# 🎯 Objetivos
-
-- 🚀 Construir produtos SaaS
-- 🌎 Trabalhar remotamente para empresas internacionais
-- 📚 Evoluir constantemente como Engenheiro de Software
-- 💜 Compartilhar conhecimento
-
----
-
-# 📫 Contato
+> Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos!
 
 <div align="center">
-
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/nicholas-freitas-4290ba228"/> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="mailto:nicholaspanonko2@gmail.com"> 
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/> 
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <!-- <a href="https://leetcode.com/u//"> 
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=LeetCode&logoColor=white"/> 
+  </a>  -->
+  <br><br>
+  <img align="center" width="26%" src="https://media1.tenor.com/m/WZCuPSuhhR8AAAAd/pixel-jeff-divoom-pixel-art.gif">
 </div>
 
----
 
 <div align="center">
 
-### 💜 *"Code. Learn. Build. Repeat."*
+###   *"Code. Learn. Build. Repeat."*
 
 ⭐ Obrigado por visitar meu perfil!
 
