@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Back-end+Developer;PHP+%7C+Laravel+%7C+Docker+%7C;Building+SaaS+Products;Clean+Architecture+%7C+DDD+%7C+SOLID" />
 <br>
 </div>
-<div >
+<div>
 ![](https://komarev.com/ghpvc/?username=NickFreitasP&style=for-the-badge&color=8B5CF6)<br>
 💻 Desenvolvedor **Back-end** apaixonado por criar software de qualidade.<br>
 🚀 Atualmente desenvolvendo aplicações **Laravel**, **SaaS**, **E-commerce** e ferramentas utilizando **Inteligência Artificial**.<br>
