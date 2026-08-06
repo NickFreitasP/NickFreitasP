@@ -87,10 +87,10 @@ Sistema para nutricionistas gerenciarem pacientes, consultas e planos alimentare
 <div align="center">
   <a href="https://www.linkedin.com/in/nicholas-freitas-4290ba228"/> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  </a>  
   <a href="mailto:nicholaspanonko2@gmail.com"> 
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  </a> 
   <!-- <a href="https://leetcode.com/u//"> 
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=LeetCode&logoColor=white"/> 
   </a>  -->
