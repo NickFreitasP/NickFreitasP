@@ -10,13 +10,13 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=8B5CF6)
+![](https://komarev.com/ghpvc/?username=NickFreitasP&style=for-the-badge&color=8B5CF6)
 
 </div>
 
 ---
 
-# 💜 Sobre mim
+#  Sobre mim
 
 💻 Desenvolvedor **Back-end** apaixonado por criar software de qualidade.
 
