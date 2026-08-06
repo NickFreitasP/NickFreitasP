@@ -20,31 +20,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis"/>
-
-</p>
-
-### DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git"/>
-
-</p>
-
-### Front-end
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-
-</p>
-
-### Ferramentas
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,github"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,html,css,js,bootstrap,docker,linux,git"/>
 
 </p>
 
