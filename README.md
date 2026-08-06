@@ -3,12 +3,7 @@
 # 👋 Olá, eu sou Nicholas Freitas
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Back-end+Developer;PHP+%7C+Laravel+%7C+Docker+%7C;Building+SaaS+Products;Clean+Architecture+%7C+DDD+%7C+SOLID" />
-
 <br>
-
-<!-- <img width="380" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"> -->
-
-<br><br>
 </div>
 
 <div >
