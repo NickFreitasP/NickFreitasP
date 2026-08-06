@@ -6,7 +6,7 @@
 
 <div >
   
-![](https://komarev.com/ghpvc/?username=NickFreitasP&style=for-the-badge&color=8B5CF6)<br>
+![](https://komarev.com/ghpvc/?username=NickFreitasP&abbreviated=true)<br>
 💻 Desenvolvedor **Back-end** apaixonado por criar software de qualidade.<br>
 🚀 Atualmente desenvolvendo aplicações **Laravel**, **SaaS**, **E-commerce** e ferramentas utilizando **Inteligência Artificial**.<br>
 🎯 Meu foco é construir produtos escaláveis seguindo boas práticas como **SOLID**, **Clean Architecture** e **DDD**.<br>
