@@ -40,32 +40,6 @@
 
 ---
 
-# 🚀 Projetos em Destaque
-
-## 🛒 E-commerce
-
-Sistema completo desenvolvido em Laravel utilizando Arquitetura Limpa, DDD e SOLID.
-
----
-
-## 🤖 AI Marketing Platform
-
-Plataforma SaaS para geração de conteúdo utilizando Inteligência Artificial.
-
----
-
-## 📈 Trading Dashboard
-
-Dashboard para gerenciamento de estratégias e métricas de operações.
-
----
-
-## 🥗 SaaS Nutrition
-
-Sistema para nutricionistas gerenciarem pacientes, consultas e planos alimentares.
-
----
-
 # 📚 Atualmente estudando
 
 ```text
