@@ -8,9 +8,7 @@
   
 ![](https://komarev.com/ghpvc/?username=NickFreitasP&abbreviated=true&color=198754)<br>
 💻 Desenvolvedor **Back-end**.<br>
-🎓 Ciência da Computação – 2º período  
-🚀 Atualmente desenvolvendo aplicações **Laravel**, **SaaS**, **E-commerce** e ferramentas utilizando **Inteligência Artificial**.<br>
-🎯 Meu foco é construir produtos escaláveis seguindo boas práticas como **SOLID**, **Clean Architecture** e **DDD**.<br>
+
 </div>
 
 ---
